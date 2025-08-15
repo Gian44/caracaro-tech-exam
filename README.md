@@ -135,3 +135,9 @@ LOL
 python3 the_trigram.py
 python3 expand_the_acronyms.py
 ```
+or 
+
+```bash
+python the_trigram.py
+python expand_the_acronyms.py
+```
